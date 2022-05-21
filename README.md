@@ -3,7 +3,7 @@
 
 I see you've found my github account. Welcome!
 
-Name's Nathan, but feel free to call me goodguyplayer or ggp.
+Name's Nathan, but feel free to call me goodguyplayer.
 
 - 🔭 I'm currently working on a company, working with javascripts and websphere.
 - 🌱 I'm a computer engineer, with interests towards cybersecurity and game development.
