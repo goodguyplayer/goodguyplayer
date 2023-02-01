@@ -3,7 +3,7 @@
 
 I see you've found my github account. Welcome!
 
-Name's Nathan, but feel free to call me goodguyplayer.
+Name's Nathan, pleased to meet you!
 
 - 🔭 I'm currently searching for a software engineering job.
 - 🌱 I'm a computer engineer, with interests towards cybersecurity and game development.
