@@ -1,9 +1,19 @@
 
-### Hello there!
+# Hello there!
 
-I see you've found my github account. Welcome!
+I see you've found my github account. Welcome! You're visitor number ![Visitor Count](https://profile-counter.glitch.me/goodguyplayer/count.svg)
 
-Name's Nathan, pleased to meet you!
+Name's Nathan, pleased to meet you! 
+Graduated in computer engineering, I possess knowledge in diverse fields of software development. My main research goals involve machine learning and cybersecurity, with some hobby on the side towards game development. While mainly interested in backend development, I also deal with front end business.
+
+
+## Programming languages
+- 💬 My main programming languages are Python, Java, C#, with some practice and projects on JavaScript, C++, C, GDScript
+<table>
+  <tr align="center" width="96">
+    <img src>
+  </tr>
+</table>
 
 - 🔭 I'm currently searching for a software engineering job.
 - 🌱 I'm a computer engineer, with interests towards cybersecurity and game development.
