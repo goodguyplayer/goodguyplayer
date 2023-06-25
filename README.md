@@ -8,10 +8,32 @@ Graduated in computer engineering, I possess knowledge in diverse fields of soft
 
 
 ## Programming languages
-- 💬 My main programming languages are Python, Java, C#, with some practice and projects on JavaScript, C++, C, GDScript
 <table>
-  <tr align="center" width="96">
-    <img src>
+  <tr>
+    <td align="center" width="96">
+      <img style="max-width: 100px; max-height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+      <br> Python
+    </td>
+    <td align="center" width="96">
+      <img style="max-width: 100px; max-height: 100px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+      <br> Java
+    </td>
+    <td align="center" width="96">
+      <img style="max-width: 100px; max-height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+      <br> JavaScript
+    </td>
+    <td align="center" width="96">
+      <img style="max-width: 100px; max-height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
+      <br> C#
+    </td>
+    <td align="center" width="96">
+      <img style="max-width: 100px; max-height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+      <br> C++
+    </td>
+    <td align="center" width="96">
+      <img style="max-width: 100px; max-height: 100px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg">
+      <br> C
+    </td>
   </tr>
 </table>
 
